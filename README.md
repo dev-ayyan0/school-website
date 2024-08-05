@@ -10,9 +10,7 @@ This is a school website design
 * SCSS
 * JavaScript
 
-## Live link
-https://thuotracy.github.io/school-website/home.
 
 ## Support and contact details
 
-Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
+Incase you run into any issues kindly contact me on this Email dev.ayyanali@gmail.com
