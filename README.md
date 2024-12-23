@@ -13,4 +13,4 @@ This is a school website design
 
 ## Support and contact details
 
-Incase you run into any issues kindly contact me on this Email dev.ayyanali@gmail.com
+Incase you run into any issues kindly contact me on this Email dev.ayyanali0@gmail.com
